@@ -7,3 +7,7 @@ __pycache__/
 .venv/
 .env
 env/
+
+# Sublime Project files
+*.sublime-project
+*.sublime-workspace
